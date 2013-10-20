@@ -1,4 +1,1 @@
-jp
-==
-
-języki programowania
+# notatka z laboratorium
